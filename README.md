@@ -1,4 +1,4 @@
-# Python Course - Hands On Lab Exercises
+# <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png" /> Python Course - Hands On Lab Exercises
 
 This repository provides structured lab materials designed to introduce Python programming through incremental, real-world applications. 
 Developed for students at the Technical University of Cluj Napoca, it emphasizes practical use of Python’s standard libraries for tasks like file management, data parsing and automation. 
